@@ -70,7 +70,7 @@ const SingleJobListing = () => {
             </div>
 
             <div className="header">
-                <h2 className="title">Job Description</h2>
+                <h2 className="title">Job description</h2>
                 <p className="para">{jobDetails.description}</p>
             </div>
             
